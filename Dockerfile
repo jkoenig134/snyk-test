@@ -1,3 +1,3 @@
-FROM node:18.14.2
+FROM storm:latest
 
 RUN node -v
