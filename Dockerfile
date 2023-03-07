@@ -1,3 +1,3 @@
-FROM node:14.1
+FROM node:12.0
 
 RUN node -v
