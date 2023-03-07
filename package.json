@@ -9,8 +9,6 @@
   "author": "js-soft GmbH <info@js-soft.com> (https://www.js-soft.com/)",
   "license": "ISC",
   "dependencies": {
-    "@electron/get": "^1.14.1",
-    "@nmshd/app-web": "^1.0.0",
-    "core-js": "^0.0.3"
+    "@electron/get": "1.14.1"
   }
 }
