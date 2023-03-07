@@ -1,3 +1,3 @@
-FROM node:18.1
+FROM node:lts-alpine
 
 RUN node -v
