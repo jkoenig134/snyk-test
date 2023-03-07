@@ -1,3 +1,3 @@
-FROM node:18.14.2-bullseye-slim
+FROM node:18.1
 
 RUN node -v
